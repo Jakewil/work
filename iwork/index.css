@@ -1,0 +1,107 @@
+#logossk{
+    height:95px;
+    width:920px;
+    position:relative;
+    margin:0 auto ;
+    padding:0;
+}
+
+#logo{
+    float:left;
+}
+#abso {
+    position:absolute;
+    opacity:30%
+}
+#imgs{
+    position: relative;
+    z-index: 1;
+
+}
+
+#ssk{
+    position:absolute;
+    bottom:0px;
+    padding-left:180px;
+}
+
+.button{
+    width:95px;
+    position:absolute;
+    bottom:0px;
+    margin-left:680px;
+}
+#button2{
+    margin-left:785px;
+}
+
+#help{
+    margin-left:895px;
+    bottom:21px;
+}
+
+#caidan{
+    width:1500px;
+    position:relative;
+    margin:0;
+    padding:0;
+    background-color:#1E90FF;
+}
+
+.td{
+    border: 2px solid #1E90FF;
+    text-align:center;
+    width:100px;
+    height:45px;
+    background:#1E90FF;
+    color:white;
+}
+
+#fenjie{
+    color:gray;
+    text-align:right;
+}
+
+#pp{
+    width:800px;
+    padding-left:220px;
+    z-index: 99;
+    top: 30px;
+
+}
+
+.img{
+    position:absolute;
+    top:230px;
+    left:1000px;
+    float:left;
+}
+
+#img2{
+    position:absolute;
+    float:left;
+    top:570px;
+    left:1002px;
+    height: 100px;
+    width:100px
+}
+.img3 {
+    position:absolute;
+    float: left;
+    top: 1170px;
+    left: 1002px;
+}
+.poi{
+    position:absolute;
+    float: left;
+    top: 570px;
+    left: 1102px;
+}
+.copyright{
+    position:absolute;
+    left: 400px;
+}
+.right{
+    position:absolute;
+    left: 600px;
+}
